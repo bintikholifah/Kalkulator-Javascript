@@ -14,3 +14,7 @@ body {
 * {
   overflow: hidden;
 }
+
+.calculator.dark {
+  background: rgb(0, 0, 0);
+}
